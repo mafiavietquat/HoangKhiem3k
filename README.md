@@ -1,13 +1,6 @@
-<div id="header" align="center">
 
-👋 Hi, I’m @HoangKhiem3k
-👀 I’m interested in art
-🌱 I’m currently learning nodejs with sql
-📫 Contact me: 0348597672 / ledohoangkhiem3k@gmail.com
-  ---
-</div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600"/>
+  
   <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="600" height="250"/>
   <div id="badges">
     <a href="https://www.facebook.com/khiem0cry/">
@@ -23,29 +16,41 @@
   <div id="badges"><img src="https://komarev.com/ghpvc/?username=HoangKhiem3k&style=flat-square&color=blue" alt=""/></div>
   <div id="badges">
     <h1>
-      hey there
+      Hey there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </div>
   
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600"/>
 
 </div>
----
 
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
----
 <div id="header" align="center">
-### :hammer_and_wrench: Languages and Tools :
+  <div id="badges">
+    <h1>
+      :woman_technologist: About me :
+    </h1>
+  </div>
+
+<div>👋 Hi, I’m @HoangKhiem3k</div>
+<div>👀 I’m interested in art</div>
+<div>🌱 I’m currently learning nodejs with sql</div>
+<div>📫 Contact me: 0348597672 / ledohoangkhiem3k@gmail.com</div>
+ ---
+ </div>
+
+<div id="header" align="center">
+  <div id="badges">
+    <h1>
+      :hammer_and_wrench: Languages and tools :
+    </h1>
+  </div>
+
+
+
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -62,14 +67,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
+<div id="badges">
+    <h1>
+      :fire: My Stats :
+    </h1>
 
-### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HoangKhiem3k&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangKhiem3k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangKhiem3k&show_icons=true&theme=blue-green)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangKhiem3k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

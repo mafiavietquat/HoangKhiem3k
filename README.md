@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="600" height="250"/>
+ 
   <div id="badges">
     <a href="https://www.facebook.com/khiem0cry/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>

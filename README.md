@@ -1,18 +1,6 @@
 
 <div id="header" align="center">
-  
  
-  <div id="badges">
-    <a href="https://www.facebook.com/khiem0cry/">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-     <a href="https://github.com/HoangKhiem3k">
-      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-    </a>
-    <a href="https://www.instagram.com/aka.khiem0cry/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
   <div id="badges"><img src="https://komarev.com/ghpvc/?username=HoangKhiem3k&style=flat-square&color=blue" alt=""/></div>
   <div id="badges">
     <h1>

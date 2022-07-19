@@ -1,13 +1,6 @@
 
 <div id="header" align="center">
- 
-  <div id="badges"><img src="https://komarev.com/ghpvc/?username=HoangKhiem3k&style=flat-square&color=blue" alt=""/></div>
-  <div id="badges">
-    <h1>
-      Hey there
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-  </div>
+
   
   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600"/>
 

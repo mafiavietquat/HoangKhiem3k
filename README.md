@@ -15,8 +15,7 @@
 
 <div>👋 Hi, I’m @HoangKhiem3k</div>
 <div>👀 I’m interested in art</div>
-<div>🌱 I’m currently learning nodejs with sql</div>
-<div>📫 Contact me: 0348597672 / ledohoangkhiem3k@gmail.com</div>
+<div>📫 Contact me: ledohoangkhiem3k@gmail.com</div>
  ---
  </div>
 
